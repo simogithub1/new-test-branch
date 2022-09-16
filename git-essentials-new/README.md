@@ -4,6 +4,9 @@ Visit [gitforeverybody.com](https://gitforeverybody.com/) for free tutorials and
 > This is a course to teach you how to use everyday git.
 
 
+THIS IS A CHANGE
+
+
 ## Contributing
 Welcome to my example Git Essentials repo! If you're here from the course, you have a few options:
 
